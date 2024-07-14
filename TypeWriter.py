@@ -3,7 +3,7 @@ import os
 import sys
 import time
 
-global_delay = 0.02
+global_delay = 0.05
 
 punctuation_marks = [
     ".",
