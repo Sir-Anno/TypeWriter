@@ -4,7 +4,7 @@ A Python script to output text files in terminal like a typewriter.
 
 ## Demo
 
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV0bHdsMXo1aWgzbHVibXV3czk5cDcxY3F6NzBzMzQzeGo4MXZxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yCeovGHc8wrTEBuLng/giphy.gif)
+https://github.com/user-attachments/assets/bc23b79e-8203-4656-a923-e4b25d60cf5e
 
 ## How to use
 - Open a terminal at the location of TypeWriter.py
