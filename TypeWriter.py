@@ -50,7 +50,7 @@ def TypeWriter_vertical(text: str, delay: float = global_delay):
         
         # Move the cursor up to the start of the output if not first column
         if char_count > 0:
-            sys.stdout.write(f"\033[{len(lines)}A") # \033 indicates ANSCI escape character, [A move cursor up by a specificed number of lines
+            sys.stdout.write(f"\033[{len(lines)}A") # \033 indicates ANSI escape character, [A move cursor up by a specificed number of lines
 
         # Print outlines
         for line in out_lines:
