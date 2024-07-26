@@ -7,7 +7,7 @@ Download from [releases](https://github.com/Sir-Anno/TypeWriter/releases)
 
 ## Demo
 
-https://github.com/user-attachments/assets/bc23b79e-8203-4656-a923-e4b25d60cf5e
+https://github.com/user-attachments/assets/a215d588-a3b1-469b-a9c6-a23ede48e0dd
 
 ## How to use
 - Open a terminal at the location of TypeWriter.py
